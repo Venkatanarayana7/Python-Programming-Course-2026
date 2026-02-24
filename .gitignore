@@ -1,0 +1,15 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
