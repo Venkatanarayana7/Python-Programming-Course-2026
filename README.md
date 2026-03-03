@@ -25,4 +25,4 @@ This repository contains my Python learning journey in 2026, including:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-programming-course-2026.git
+   git clone https://github.com/Venkatanarayana7/python-programming-course-2026.git
